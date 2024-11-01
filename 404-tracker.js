@@ -1,4 +1,4 @@
-// Capture necessary information
+// Must add static JS on 404 page, not smart script
 const referrer = document.referrer || "Direct";
 const currentUrl = window.location.href;
 const timestamp = new Date().toISOString();
